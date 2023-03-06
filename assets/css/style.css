@@ -1,0 +1,22 @@
+:root {
+    
+
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Srial, "Helvetica Neve", Helvetica, sans-serif;
+}
+body {
+    padding: 1rem;
+background-color: brown;
+display: flex;
+text-align: center;
+justify-content: center;
+}
+
+
+
